@@ -1,0 +1,2 @@
+Prefix plugins/HTSeq/example
+Plugin HTSeq inputfile S12_R1.fastq outputfile S12_R1.pdf
